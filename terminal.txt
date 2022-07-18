@@ -1,0 +1,63 @@
+ls 				> Ցուցադրում է տվյալ դիրեկտորիայի պարունակությունը, ls -a ,ls -la ;
+ls -l 			> Ցուցադրում է տվյալ դիրեկտորիայի պարունակությունունը մանրամասներով
+cd 	  "name"	> Փոխում է դիրեկտորիան , cd .. > mi dir het
+h3wd				> Ցուցադրում է ներկա դիրեկտորիան
+
+mkdir "name"	> տեղծում է նոր դիրեկտորիա
+rmdir "name"    > jnjum  e h3ah3kan
+touch "name"	> Կարելի է ստեղծել ֆայլ, բայց ոչ միայն
+rm 	  "name"	> Ջնջում է ֆայլը
+rm -r "name"	> Ջնջում է դիրեկտորիան ռեկուրսիվորեն
+ch3 "name"		> coh3i fille
+cat   "name"	> bacum e filery texti exanakov
+//oh3en "name"	> bacum e "name" chragiry
+
+clear		 	> maqrum e terminaly
+history			> Ցուցադրում է նախկինում կատարված հրամանները
+
+
+============== git ================
+
+git init                        > Initialized
+git status 
+git add  <>  . ->bolor filery ,  "file name" konkret et filini hetevir (stage)
+git commit -m "commit_name"     > stexcum e nor (commit) 
+git status --short              > cun e talis h3oh3oxvac filery
+
+    --h3atasxan--
+    ?? - Неотслеживаемые файлы
+    A - Файлы добавлены на сцену
+    M - Модифицированные файлы
+    Д - Удаленные файлы
+    ----
+
+git log             > cunc e talis commit-nery key-ery ev ayly
+
+git branch "nor verkayi anun"   > stexcum e nor vetka
+git branch                      > cuc e talis bolor vetkanery
+git branch -M "new name"        > h3oxuma vetkayi anuny
+git branch -d "verkayi anun"    > jnjum e vetkan
+git checkout "verkayi anun"     > h3oxum e vetkaner
+git merge "verkayi anun"        > miacnum e vetkanry 
+
+
+==github==
+
+git remote add origin htth3s://github.com/Hovo505/"name reh3ository".git
+git push -u origin master > qcuma github
+git fetch origin        > vercnum e githubb-ic 
+git log origin/master   > talisa mer stacac commit-neri kay-y
+git push origin         > tarmacum e github-ic 
+
+===================================
+
+--------------React.js----------------
+
+npx create-react-app my-react-app > stexcum e react app
+npm start 
+
+
+--------------------------------------
+
+
+

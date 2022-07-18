@@ -1,0 +1,31 @@
+.blok{
+    width: 100%;
+    margin: 5px 0px 5px 0px;
+    
+    background-color: rgba(128, 123, 123, 0.897);
+    border-radius: 10px;
+    padding:10px;
+    display: flex;
+    align-items: center;
+}
+.blok h2{
+    color: rgb(255, 255, 255);
+    width: 78%;
+    
+    overflow-wrap: break-word;
+    font-size: 18px;
+}
+.blok button{
+    width: 20%;
+    height: 30px;
+    border-radius: 10px;
+    border: 0px;
+   margin-left: 10px;
+}
+
+.blok button:hover{
+    background-color: rgb(169, 171, 173);
+ }
+ .blok button:active{
+     background-color: rgb(126, 127, 128);
+  }

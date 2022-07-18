@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(68, 51, 60);
+}
+.App{
+    width: 400px;
+    min-height: 200px;
+    background-color: rgb(189, 152, 178);
+    margin:auto;
+    border-radius: 10px;
+    margin-top:20px;
+    padding:10px;
+}
+.input_main{
+    margin-bottom: 5px;
+}
+.input_main input{
+    height: 24px;
+    width: 80%;
+    padding:10px;
+    font-size: 20;
+    border-radius: 10px 0px 0px 10px;
+    border:0px;
+    outline: none;
+}
+.input_main button{
+    width:20%;
+    height: 24px;
+    border-radius: 0px 10px 10px 0px;
+    border: 0px;
+}
+.input_main button:hover{
+   background-color: rgb(169, 171, 173);
+}
+.input_main button:active{
+    background-color: rgb(126, 127, 128);
+ }
