@@ -56,7 +56,7 @@ git push origin         > tarmacum e github-ic
 npx create-react-app my-react-app > stexcum e react app
 npm start 
 
-
+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
 --------------------------------------
 
 
